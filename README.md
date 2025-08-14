@@ -63,7 +63,7 @@ Note: Dataset is for demonstration purposes only.
 
 📈 Dashboard Preview
 
-(Attach screenshot of your dashboard here)
+https://github.com/dinarul/Power-Bi/blob/main/pizza-part-2-Dashboard.png
 
 🚀 Insights & Learnings
 
